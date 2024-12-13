@@ -4,3 +4,5 @@ A new type of malware. Did just bypass UAC on any windows os (not supporting und
 This malware is taked too long ngl.
 
 aaaaaand... few little payload
+
+Password: 123456
